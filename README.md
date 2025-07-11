@@ -1,2 +1,6 @@
 # Intel-Unnati-2025-Industrial-Training
-A lightweight CNN-based student model is trained to enhance image sharpness using knowledge distillation from a high-capacity teacher (Restormer). 
+# Image Sharpening using Knowledge Distillation
+
+This project trains a lightweight student model to sharpen images by mimicking a Restormer teacher model.  
+📄 See `report.pdf` and `video_demo.mp4` for full details.
+ 
